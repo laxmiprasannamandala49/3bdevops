@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My First Web Page</title>
+</head>
+<body>
+
+    <!-- Main Heading -->
+    <h1>Welcome to My Website</h1>
+
+    <!-- Subheading -->
+    <h2>About This Page</h2>
+
+    <!-- Paragraph of text -->
+    <p>This is a sample paragraph of text. HTML structures the content of the web.</p>
+    
+    <!-- Another paragraph with inline styling elements -->
+    <p>You can make text <strong>bold</strong> or <em>italicized</em> easily.</p>
+
+    <!-- Hyperlink pointing to an external website -->
+    <p>Visit the official <a href="https://developer.mozilla.org" target="_blank">MDN Web Docs</a> to learn more.</p>
+
+    <!-- Displaying an Image -->
+    <h2>Sample Image</h2>
+    <img src="https://placeholder.com" alt="A placeholder image descriptive text" width="150" height="150">
+
+</body>
+</html>
